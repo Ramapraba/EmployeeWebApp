@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfu7K8EdfmYxmAoB4RSzdFEHE6DVu6LVqHjuYuqmFbpw87f3N7pKGs89pmGVW+gY3fY82zwvxDQLuvX/qSEwRA==",
+  "success": true,
+  "projectFilePath": "C:\\DotNetProjects\\Coding_Test\\EmployeeWebApp\\EmployeeWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vasu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
